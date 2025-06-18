@@ -11,7 +11,7 @@ teachers = {
     "오정아": {"subject": "체육", "department": "예술체육부", "class": None},
     "배경미": {"subject": "정보", "department": "교육정보부", "class": None},
     "김지현": {"subject": "진로", "department": "진로진학부", "class": None},
-    "김혜선": {"subject": "수학", "department": "1학년부", "class": "1학년 2반"},
+    "김혜선": {"subject": "수학", "department": "1학년부", "class": None},
     "송인필": {"subject": "물리", "department": "2학년부", "class": None},
     "유형우": {"subject": "수학", "department": "3학년부", "class": None},
     "편경림": {"subject": "영어", "department": "교무기획부", "class": None},
